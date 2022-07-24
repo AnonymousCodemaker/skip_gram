@@ -1,2 +1,2 @@
 # skip_gram
-实现基于负采样的skip——gram
+实现基于负采样的skip_gram
